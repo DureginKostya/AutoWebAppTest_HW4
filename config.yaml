@@ -1,0 +1,10 @@
+url_login: https://test-stand.gb.ru/gateway/login
+url_post: https://test-stand.gb.ru/api/posts
+login: Ivan2010
+passwd: 8673c79ee4
+title_not_my_post: пельмешки
+title_my_post: Создан пост
+description_my_post: Мой пост
+content_my_post: Экспериментальный пост
+condition_field_me: description
+condition_field_not_me: title

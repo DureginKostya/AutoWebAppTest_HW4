@@ -1,0 +1,15 @@
+address: https://test-stand.gb.ru/
+browser: chrome
+sleep_time: 10
+login: Ivan2010
+passwd: 8673c79ee4
+failed_login: test
+failed_passwd: test
+title_new_post: New_post
+description_new_post: Hello my friend
+content_new_post: Hi
+date_created: 04.12.20023
+message_alert: Form successfully submitted
+your_name_new: Petr
+email_new: mail@mail.ru
+content_new_contact: Hello!!!

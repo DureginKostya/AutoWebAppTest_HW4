@@ -1,0 +1,9 @@
+2023-12-17 00:11:13 INFO Receiving a token for username Ivan2010
+2023-12-17 00:11:14 INFO ====== WebDriver manager ======
+2023-12-17 00:11:16 INFO Get LATEST chromedriver version for google-chrome
+2023-12-17 00:11:16 INFO Get LATEST chromedriver version for google-chrome
+2023-12-17 00:11:17 INFO Driver [C:\Users\Костя\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 00:11:18 INFO Test 1 - Star
+2023-12-17 00:11:21 INFO Click login button
+2023-12-17 00:11:22 INFO We find text 401 in field error label
+2023-12-17 00:11:22 INFO Test 1 - Finish
